@@ -19,3 +19,6 @@ The name "StoryTailored" combines two key concepts: "Story" and "Tailored," whic
 We built this app using React native which enables our app to run both on iOS and Android.
 We use Large Language Model (GPT 3.5) aka ChatGPT to generate the creative responses. 
 Please find the specific node modules in `package.json`.
+
+## How does our App look like?
+<img src = "./assets/images/welcomeScreen.png">
