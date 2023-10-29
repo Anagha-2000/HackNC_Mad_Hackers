@@ -20,7 +20,7 @@ We built this app using [**React native**](https://reactnative.dev/docs/environm
 We use Large Language Model (GPT 3.5) aka [**ChatGPT**](https://chat.openai.com/) to generate the creative responses. 
 Please find the specific node modules in `package.json`.
 
-## How does our App look like?
+## :iphone: How does our App look like?
 <p align="center" width="100%"><img height="650" width="350" src = "chatbot/assets/images/welcomeScreen.PNG"></p>
 <p align="center" width="100%"><img height="650" width="350" src = "chatbot/assets/images/HomeScreen.PNG"> </p>        
 <p align="center" width="100%">
