@@ -26,3 +26,9 @@ Please find the specific node modules in `package.json`.
 <p align="center" width="100%">
     <img align="center" height="650" width="350" src = "chatbot/assets/images/HomeScreenChat.PNG">  
 </p>
+
+## Our Team Members:
+[Sukhad Joshi](https://github.com/sukhadj)
+[Anagha Patil](https://github.com/Anagha-2000)
+[Christopher Williams](https://github.com/encore488)
+[Christine Hu](https://github.com/Denthin)
