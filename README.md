@@ -21,4 +21,8 @@ We use Large Language Model (GPT 3.5) aka ChatGPT to generate the creative respo
 Please find the specific node modules in `package.json`.
 
 ## How does our App look like?
-<img src = "./assets/images/welcomeScreen.png">
+<p align="center" width="100%"><img height="650" width="350" src = "chatbot/assets/images/welcomeScreen.PNG"></p>
+<p align="center" width="100%"><img height="650" width="350" src = "chatbot/assets/images/HomeScreen.PNG"> </p>        
+<p align="center" width="100%">
+    <img align="center" height="650" width="350" src = "chatbot/assets/images/HomeScreenChat.PNG">  
+</p>
