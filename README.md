@@ -31,7 +31,3 @@ Please find the specific node modules in `package.json`.
 [Sukhad Joshi](https://github.com/sukhadj)
 
 [Anagha Patil](https://github.com/Anagha-2000)
-
-[Christopher Williams](https://github.com/encore488)
-
-[Christine Hu](https://github.com/Denthin)
